@@ -1,1 +1,2 @@
-from .jcnn import NN, NNLayer
+from .jcnn import NN
+from .jcnnlayer import NNLayer
